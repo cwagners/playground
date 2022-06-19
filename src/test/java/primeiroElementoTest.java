@@ -2,7 +2,7 @@ import exemplo05.primeiroElemento;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class PrimeiroElementoTest {
+public class primeiroElementoTest {
 
     @Test
     void deveriaRetornarPrimeiroElemento(){
