@@ -15,7 +15,7 @@ ExercÌcio de comparaÁ„o de concatenaÁ„o de Strings:
 - No Programa de Lista de Chamadas, gerar String ˙nica com todos os nomes da chamada,
     separados por vÌrgula e escrever no console.
  */
-public class ListaDeChamadas {
+public class exericioStrings {
 
     public static void main(String[] args) {
         String[] chamada = solicitaNomes();
